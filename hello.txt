@@ -4,5 +4,6 @@ public class Hello{
 	int a,b;
 	int c;
 	c = a+b;
+	l like coding;
 }
 }
